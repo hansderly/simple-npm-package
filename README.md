@@ -5,7 +5,6 @@
 A simple npm package for demonstration purposes and use in a Node.js app.
 
 <br>
-[![Twitter Follow](https://img.shields.io/twitter/follow/hansderly?style=social)](https://twitter.com/intent/follow?screen_name=hansderly)
 
 </div>
 
