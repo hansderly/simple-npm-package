@@ -1,0 +1,24 @@
+{
+	"name": "@hansderly/simple-npm-package",
+	"version": "0.0.1",
+	"description": "A simple npm package!",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/hansderly/simple-npm-package.git"
+	},
+	"keywords": [
+		"simple",
+		"npm",
+		"package"
+	],
+	"author": "Hans-Derly Rameau",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/hansderly/simple-npm-package/issues"
+	},
+	"homepage": "https://github.com/hansderly/simple-npm-package#readme"
+}
